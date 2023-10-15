@@ -20,5 +20,6 @@ def change_info():
     tel = input("Введите телефон: \n")
     data = name+ " "+tel
     return data
+
     
     
